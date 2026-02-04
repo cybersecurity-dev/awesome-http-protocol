@@ -1,2 +1,1 @@
-# awesome-http-protocol
-Awesome HTTP Protocol
+# Awesome [HTTP](https://wikipedia.org/wiki/HTTP) Protocol
